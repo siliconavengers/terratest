@@ -89,7 +89,7 @@ require = [
   name = "k8s.io/apimachinery"
 
 [[constraint]]
-  branch = "release-9.0"
+  branch = "release-10.0"
   name = "k8s.io/client-go"
 
 [[constraint]]
